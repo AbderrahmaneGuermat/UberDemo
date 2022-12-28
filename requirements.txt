@@ -1,1 +1,5 @@
 streamlit==1.4
+pandas
+numpy
+altair
+pydeck
